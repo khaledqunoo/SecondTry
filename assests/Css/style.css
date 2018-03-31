@@ -1,0 +1,39 @@
+
+/* ======================================================================================================= */
+.firstSec {background-color: #11100e;height: 40px}
+.firstSec .input-group{margin-top: 5px}
+.firstSec input{background-color: #1b1a16 ;border-style: none;color: white}
+.firstSec button{background-color: #1b1a16;color: white}
+.firstSec .input-group ::placeholder {
+    color: white;
+    opacity: 1; /* Firefox */
+}
+
+.firstSec .input-group :-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: white;
+}
+
+.firstSec .input-group ::-ms-input-placeholder { /* Microsoft Edge */
+   color: white;
+}
+/* ======================================================================================================= */
+._navbar{background-color: #1a1512}
+._navbar a{color: white}
+._navbar .navbar-header button span{background-color: white}
+/* ======================================================================================================= */
+._color{background-color: #eaeaea}
+._imgtext{background-color: white;}
+._imgtext .row b{cursor: pointer;color: #9c8018 }
+.last{background-color: #11100e}
+.last .row{overflow: hidden}
+.last .row form input[type=text]{float: left ;max-width: 200px ;margin-right: 10px ;background-color: #1b1a16 ;border-style: none;color: white;margin-bottom: 10px }
+.last .row form input[type=button]{float: left;background-color: #9c8018 ;border-style: none;margin-bottom: 10px}
+/* ======================================================================================================= */
+footer{text-align: center; margin: auto;margin-top: 10px}
+
+
+
+
+
+
+
